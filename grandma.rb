@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
     return "I LOVE YOU TOO PUMPKIN!"
 end
 
-speak_to_grandma(phrase)
+speak_to_grandma()
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
