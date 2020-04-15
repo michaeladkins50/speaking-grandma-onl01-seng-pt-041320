@@ -2,6 +2,7 @@
 
 
 def speak_to_grandma(phrase)
+  phrase=require_relative(string)
   if phrase =="I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
 end
